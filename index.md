@@ -1,4 +1,4 @@
-# Wordle TR
+# KelimeX
 
 ##### For questions, support needs, or issues regarding the app, please contact with me with the following email:
 
